@@ -18,9 +18,9 @@ action 1 cli local python link-monitor.py -m "eth1/5-6 eth1/11 eth1/48" -a "eth1
  
  
 Example Usage of the script,
-link-monitor.py -m "eth1/1-10" -a "eth1/13-20" -l "$command"
-link-monitor.py -m "eth1/1 Eth1/2 Eth1/3" -a "eth1/20" -l "$command"
-link-monitor.py -m "eth1/1-10 Eth1/15-20" -a "eth1/30-32 eth1/37-38" -l "$command"
+<br>link-monitor.py -m "eth1/1-10" -a "eth1/13-20" -l "$command"
+<br>link-monitor.py -m "eth1/1 Eth1/2 Eth1/3" -a "eth1/20" -l "$command"
+<br>link-monitor.py -m "eth1/1-10 Eth1/15-20" -a "eth1/30-32 eth1/37-38" -l "$command"
  
  
 This Script,
