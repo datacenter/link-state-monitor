@@ -28,3 +28,5 @@ This Script,
 1. Shuts down all the interfaces mentioned in the –a options, when all the interface mentioned in –m option is down
 
 2. Brings up all the interfaces mentioned in the –a options, when at least one of the interface mentioned in –m option is back up
+
+Tested on Nexus 3000 series switches
