@@ -1,0 +1,5 @@
+The script examples provided by Cisco for your use are provided for reference only as a customer courtesay.  They are 
+intended to facilitate development of your own scripts and software that interoperate with Cisco switches and software.  
+Although Cisco has made efforts to create script examples that will be effective as aids to script or software 
+development,  Cisco assumes no liability for or support obligations related to the use of the script examples or any 
+results obtained using or referring to the script examples.
