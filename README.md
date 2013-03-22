@@ -9,7 +9,7 @@ Script usage follows,
 The script takes the following three mandatory arguments,
 <br>   -m \<Interfaces to monitor>
 <br>   -a \<Interface to act on (shutdown/bringup)>
-<br>   -l \<Syslog that matched the eem event pattern
+<br>   -l \<Syslog that matched the eem event pattern>
  
 2. Configure eem as below to detect link UP/DOWN,
 event manager applet link_monitor
